@@ -1,0 +1,50 @@
+div.container {
+    margin-top: 30px;
+}
+
+div.ad {
+    padding: 2em;
+    background-size: cover;
+    background-position: center center;
+}
+div.ad h1, div.ad p, div.carousel-caption {
+    color:white;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+}
+div.ad .btn {
+    margin-top: 2em;
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
+.avatar {
+    max-width: 128px;
+    max-height: 128px; 
+    border-radius: 50%;
+}
+.avatar-medium {
+    max-width: 64px;
+    max-height: 64px;
+}
+.avatar-mini {
+    max-width:24px;
+    max-height: 24px;
+}
+.datepicker table tr td.disabled {
+    color:firebrick !important;
+}
+.rating i {
+    color:goldenrod;
+}
+
+.alert a {
+    text-decoration: none;
+}
+.alert .btn {
+    color:white;
+}
+.badge.badge-primary {
+    padding:10px;
+    font-size: 16px;
+}
+
+
